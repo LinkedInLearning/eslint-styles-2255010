@@ -15,5 +15,16 @@ module.exports = {
   rules: {
     'brace-style': 'warn',
     'no-unused-vars': 'off',
+    'object-curly-spacing': [
+      'error',
+      'always',
+    ],
+    'comma-spacing': [
+      'error',
+      {
+        'before': 'true',
+        'after': 'true',
+      },
+    ],
   },
 };

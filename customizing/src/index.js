@@ -7,3 +7,7 @@ const counter = function(start) {
     return (start + 2);
   }
 }
+
+const contact = { firstName: 'Sasha', };
+
+const scores = [55 , 23 , 78];
