@@ -8,11 +8,17 @@ const user = {
 
 let counter = 5;
 // Error for 'yoda' rule:
-if (10 > counter) {
+if (counter < 10) {
   counter += 1;
 }
 
-// Errors for 'array-brackets-newline' rule:
-const grades = [ 'a', 'b', 'c', 'd', 'f', ];
-// No errors for 'array-brackets-newline' rule:
+// Errors for 'array-bracket-newline' rule:
+const grades = [ 
+  'a', 
+  'b', 
+  'c', 
+  'd', 
+  'f', 
+];
+// No errors for 'array-bracket-newline' rule:
 const scores = [ 23, 52, ];
