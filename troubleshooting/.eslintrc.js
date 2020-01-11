@@ -3,6 +3,7 @@ module.exports = {
     browser: true,
     es6: true,
   },
+  extends: 'eslint:recommended',
   globals: {
     Atomics: 'readonly',
     SharedArrayBuffer: 'readonly',
@@ -12,6 +13,10 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
-    'func-names': 'error',
+    'func-names': [
+      'error',
+      'as-needed',
+    ],
+    'no-self-compare': 'error',
   },
 };
