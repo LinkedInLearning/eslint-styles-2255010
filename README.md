@@ -1,7 +1,6 @@
 # ESLint: Customizing Styles
 This is the repository for the LinkedIn Learning course [ESLint: Customizing Styles]. The full course is available from [LinkedIn Learning][lil-course-url].
 
-[![ESLint: Customizing Styles](COURSEIMAGE)](LICOURSEURL)
 ![ESLint: Customizing Style][lil-thumbnail-url] 
 
 Does your project style not adhere seamlessly to rules from a style guide? In this concise course—the second installment in the ESLint series—learn how to add and override rules to your ESLint configuration to ensure that you won't get flagged for "errors" that are really just aspects of your personal style. Instructor Sasha Vodnik shows how to customize your configuration by adding style rules to the predefined rules, as well as how to specify detailed configuration options for certain rules. Plus, learn how to identify and fix common configuration issues in ESLint.
