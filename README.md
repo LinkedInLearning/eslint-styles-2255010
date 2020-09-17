@@ -1,9 +1,14 @@
 # ESLint: Customizing Styles
-This is the repository for the LinkedIn Learning course [ESLint: Customizing Styles]. The full course is available from [LinkedIn Learning](LICOURSEURL).
+This is the repository for the LinkedIn Learning course [ESLint: Customizing Styles]. The full course is available from [LinkedIn Learning][lil-course-url].
 
 [![ESLint: Customizing Styles](COURSEIMAGE)](LICOURSEURL)
+![ESLint: Customizing Style][lil-thumbnail-url] 
 
-[COURSEDESCRIPTION]
+Does your project style not adhere seamlessly to rules from a style guide? In this concise course—the second installment in the ESLint series—learn how to add and override rules to your ESLint configuration to ensure that you won't get flagged for "errors" that are really just aspects of your personal style. Instructor Sasha Vodnik shows how to customize your configuration by adding style rules to the predefined rules, as well as how to specify detailed configuration options for certain rules. Plus, learn how to identify and fix common configuration issues in ESLint.
+
+### Skills covered in this course
+ - Web Development
+ - ESLint
 
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -14,9 +19,9 @@ Some branches will have a beginning and an end state. These are marked with the 
 
 ## Folders
 The files are divided into three folders, which represent 3 separate projects:
-  - The `customizing` folder contains the project used in videos 01_01 and 01_02.
-  - The `troubleshooting` folder contains the project used in video 01_03.
-  - The `challenge` folder contains the project used in videos 01_04 and 01_05.
+  - The `customizing` folder contains the project used in videos `01_01` and `01_02`.
+  - The `troubleshooting` folder contains the project used in video `01_03`.
+  - The `challenge` folder contains the project used in videos `01_04` and `01_05`.
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
@@ -31,3 +36,20 @@ The files are divided into three folders, which represent 3 separate projects:
 3. Open the folder for your repository clone in your code editor.
 4. Navigate to the folder for your repository clone in terminal or CMD.
 5. Navigate to the `customizing` subfolder, install dependencies using the `npm i` command, then repeat for the `troubleshooting` and `challenge` folders.
+
+### Instructor
+
+**Sasha Vodnik**
+
+<img src ="https://media-exp1.licdn.com/dms/image/C560DAQE4Fq-GmS8pwg/learning-author-crop_200_200/0?e=1600387200&v=beta&t=mSpUtCG9JRIYT5yyCcfB2m4evsbygBh6cHjfwV-kp14" >
+
+_Senior Technical Course Developer at DocuSign_
+
+[View on LinkedIn](https://www.linkedin.com/in/sashavodnik?trk=lil_course)
+
+[Other Courses by Sasha](https://www.linkedin.com/learning/instructors/sasha-vodnik)
+
+[0]: # (Replace these placeholder URLs with actual course URLs)
+
+[lil-course-url]: https://www.linkedin.com/learning/eslint-customizing-styles/
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2255010/2255010-1582661408160-16x9.jpg
