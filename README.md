@@ -1,5 +1,5 @@
 # ESLint: Customizing Styles
-This is the repository for the LinkedIn Learning course [ESLint: Customizing Styles]. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course ESLint: Customizing Styles. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![ESLint: Customizing Style][lil-thumbnail-url] 
 
