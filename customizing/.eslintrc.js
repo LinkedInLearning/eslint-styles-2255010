@@ -13,5 +13,7 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
+    'brace-style': 'warn',
+    'no-unused-vars': 'off',
   },
 };
